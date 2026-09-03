@@ -1,0 +1,960 @@
+1	Machinery & Equipment	Fixed Assets	Digital Weight  Machine	Size:20kg	1	USABLE	Head Office	01/07/2026	73,300	
+2	Machinery & Equipment	Fixed Assets	Digital Weight  Machine	Size:100kg	1	USABLE	Head Office	01/07/2026	165,600	
+3	Machinery & Equipment	Fixed Assets	Mart Pump	Size:2'' Brand;Winner	3	USABLE	Head Office	01/07/2026	233,200	
+4	Machinery & Equipment	Fixed Assets	Total station	Size:Topcon	1Set	USABLE	Head Office	01/07/2026	7,200	
+5	Machinery & Equipment	Fixed Assets	Grinding Machine	Size:4'' Brand:Crown	10	USABLE	Head Office	01/07/2026	44,300	
+6	Machinery & Equipment	Fixed Assets	Grinding Machine	Size:7''' Brand:ken	1	USABLE	Head Office	01/07/2026	36,200	
+7	Machinery & Equipment	Fixed Assets	Straight Grinding  Machine	Brand:Bosch, Model: GGS5000L, 3300 Rpm	2	USABLE	Head Office	01/07/2026	155,900	
+8	Machinery & Equipment	Fixed Assets	Magnetic drill  Machine	Brand:Dewalt, Model: DWL 1622, 300-450 Rpm	1	USABLE	Head Office	01/07/2026	24,500	
+9	Machinery & Equipment	Fixed Assets	Vertical drill  Machine		1	USABLE	Head Office	01/07/2026	204,300	
+10	Machinery & Equipment	Fixed Assets	Electric Wood Shaw  Machine	Brand:Bosch	1	USABLE	Head Office	01/07/2026	66,700	
+11	Machinery & Equipment	Fixed Assets	Concrete breaking drill  Machine	Brand:Bosch, Model: D-70745, 1150 Wt	2	USABLE	Head Office	01/07/2026	210,800	
+12	Machinery & Equipment	Fixed Assets	Concrete Drill Machine	Brand: Dewalt, Model: D25501	1	USABLE	Head Office	01/07/2026	17,000	
+13	Machinery & Equipment	Fixed Assets	Concrete Drill Machine	Brand: BORAY, Model: M-Z1A-BR-26	1	USABLE	Head Office	01/07/2026	152,600	
+14	Machinery & Equipment	Fixed Assets	Hand Drill  Machine	Brand:Bosch, Model: GSB13RE, 1.5 mm to 13 mm Drill Bit Can Be Used	2	USABLE	Head Office	01/07/2026	110,300	
+15	Machinery & Equipment	Fixed Assets	Charger Drill  Machine	Brand:Dewalt	1	USABLE	Head Office	01/07/2026	74,500	
+16	Machinery & Equipment	Fixed Assets	Hand Air Blower Machine		1	USABLE	Head Office	01/07/2026	147,700	
+17	Machinery & Equipment	Fixed Assets	Vibrator Motor	Brand:bengal model:ZN70	3	USABLE	Head Office	01/07/2026	67,600	
+18	Machinery & Equipment	Fixed Assets	Vibrator Nossel	Size:1''	1Set	USABLE	Head Office	01/07/2026	224,300	
+19	Machinery & Equipment	Fixed Assets	Vibrator Nossel	Size:1 1/2''	1Set	USABLE	Head Office	01/07/2026	48,800	
+20	Machinery & Equipment	Fixed Assets	Vibrator Nossel	Size:2''	1Set	USABLE	Head Office	01/07/2026	39,500	
+21	Machinery & Equipment	Fixed Assets	Jig saw Machine	Brand:Dewalt	2	USABLE	Head Office	01/07/2026	135,400	
+22	Machinery & Equipment	Fixed Assets	Plate Compactor	model:MS100    yellow red	2	USABLE	Head Office	01/07/2026	190,200	
+23	Machinery & Equipment	Fixed Assets	Concrete mixer  Machine	capacity: 350 ltr, Brand:changwu , 18hp	2	USABLE	Head Office	01/07/2026	55,900	
+24	Machinery & Equipment	Fixed Assets	Electric Motorized Compression Testing Machine	Model:DYA-2000	1 Set	USABLE	Head Office	01/07/2026	157,600	
+25	Machinery & Equipment	Fixed Assets	Portable Dry Oven	Model: DHG-9053, Capacity: 50 Ltr	1	USABLE	Head Office	01/07/2026	114,900	
+26	Machinery & Equipment	Fixed Assets	Portable Welding Machine	Brand: Lion DSM	2	USABLE	Head Office	01/07/2026	229,300	
+27	Machine And Hand Tools	Fixed Assets	Dissel Hand Pump		2	USABLE	Head Office	01/07/2026	136,700	
+28	Machine And Hand Tools	Fixed Assets	Protable Light	Size:500w	4Set	USABLE	Head Office	01/07/2026	64,200	
+29	Machine And Hand Tools	Fixed Assets	Epoxy Gun	Barnd:HILL TE	1	USABLE	Head Office	01/07/2026	202,000	
+30	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:13mm	2	USABLE	Head Office	01/07/2026	128,200	
+31	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:14mm	1	USABLE	Head Office	01/07/2026	48,000	
+32	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:10mm	2	USABLE	Head Office	01/07/2026	139,200	
+33	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:15mm	1	USABLE	Head Office	01/07/2026	126,800	
+34	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:16mm	6	USABLE	Head Office	01/07/2026	74,600	
+35	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:27mm	3	USABLE	Head Office	01/07/2026	22,600	
+36	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:17mm	2	USABLE	Head Office	01/07/2026	211,400	
+37	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size:19mm	1	USABLE	Head Office	01/07/2026	111,500	
+38	Machine And Hand Tools	Fixed Assets	Combination Spanner	Size: 6-32 mm	1set	USABLE	Head Office	01/07/2026	140,100	
+39	Machine And Hand Tools	Fixed Assets	Double Ring Spanner	Size: 14-15mm	1	USABLE	Head Office	01/07/2026	198,500	
+40	Machine And Hand Tools	Fixed Assets	Adjustable spanner	Size: 6''	4	USABLE	Head Office	01/07/2026	171,100	
+41	Machine And Hand Tools	Fixed Assets	Adjustable spanner	Size: 10''	3	USABLE	Head Office	01/07/2026	219,000	
+42	Machine And Hand Tools	Fixed Assets	Adjustable spanner	Size: 12''	4	USABLE	Head Office	01/07/2026	16,900	
+43	Machine And Hand Tools	Fixed Assets	Hammering Wrench	Size:27	2	USABLE	Head Office	01/07/2026	53,700	
+44	Machine And Hand Tools	Fixed Assets	Metal Hammer	Size:4LB	2	USABLE	Head Office	01/07/2026	23,900	
+45	Machine And Hand Tools	Fixed Assets	Metal Hammer	Size:1LB	1	USABLE	Head Office	01/07/2026	81,800	
+46	Machine And Hand Tools	Fixed Assets	Metal Hammer	Size:2LB	5	USABLE	Head Office	01/07/2026	44,400	
+47	Machine And Hand Tools	Fixed Assets	Metal Hammer	Size:6LB	1	USABLE	Head Office	01/07/2026	54,100	
+48	Machine And Hand Tools	Fixed Assets	Metal Hammer	Size:8LB	1	USABLE	Head Office	01/07/2026	207,400	
+49	Machine And Hand Tools	Fixed Assets	Copper Hammer	Size:2LB	6	USABLE	Head Office	01/07/2026	191,000	
+50	Machine And Hand Tools	Fixed Assets	Copper Hammer	Size:4LB	5	USABLE	Head Office	01/07/2026	69,900	
+51	Machine And Hand Tools	Fixed Assets	Rubber Hammer		2	USABLE	Head Office	01/07/2026	178,400	
+52	Machine And Hand Tools	Fixed Assets	Chipping Hammer		4	USABLE	Head Office	01/07/2026	42,400	
+53	Machine And Hand Tools	Fixed Assets	Pipe wrench	Size: 12''	1	USABLE	Head Office	01/07/2026	41,300	
+54	Machine And Hand Tools	Fixed Assets	Pipe wrench	Size: 18''	1	USABLE	Head Office	01/07/2026	174,800	
+55	Machine And Hand Tools	Fixed Assets	Pipe wrench	Size: 24''	1	USABLE	Head Office	01/07/2026	175,500	
+56	Machine And Hand Tools	Fixed Assets	Pipe wrench	Size: 36''	2	USABLE	Head Office	01/07/2026	7,400	
+57	Machine And Hand Tools	Fixed Assets	Right Angle	Size: 12''	4	USABLE	Head Office	01/07/2026	162,700	
+58	Machine And Hand Tools	Fixed Assets	Right Angle	Size: 24''	2	USABLE	Head Office	01/07/2026	48,000	
+59	Machine And Hand Tools	Fixed Assets	Spirit Level	Barnd:Capro Size: 12''	6	USABLE	Head Office	01/07/2026	8,400	
+60	Machine And Hand Tools	Fixed Assets	Flat Screw Driver		4	USABLE	Head Office	01/07/2026	156,800	
+61	Machine And Hand Tools	Fixed Assets	Star Screw Driver		3	USABLE	Head Office	01/07/2026	143,700	
+62	Machine And Hand Tools	Fixed Assets	Half Round File		2	USABLE	Head Office	01/07/2026	99,400	
+63	Machine And Hand Tools	Fixed Assets	Flat File		2	USABLE	Head Office	01/07/2026	23,400	
+64	Machine And Hand Tools	Fixed Assets	Flat Pliers	Size:8''	3	USABLE	Head Office	01/07/2026	23,500	
+65	Machine And Hand Tools	Fixed Assets	Cutting Pliers	Size:8''	1	USABLE	Head Office	01/07/2026	210,000	
+66	Machine And Hand Tools	Fixed Assets	L-Key	Size:1.5mm-10mm	1set	USABLE	Head Office	01/07/2026	143,200	
+67	Machine And Hand Tools	Fixed Assets	L-Key	Star	1set	USABLE	Head Office	01/07/2026	151,800	
+68	Machine And Hand Tools	Fixed Assets	Socket	Brand: VATA. Size:10mm-32mm 1/2 drive	1set	USABLE	Head Office	01/07/2026	219,100	
+69	Machine And Hand Tools	Fixed Assets	Light  Socket	Size:27mm 1/2 drive	2	USABLE	Head Office	01/07/2026	141,500	
+70	Machine And Hand Tools	Fixed Assets	Magnet Plumbo		5	USABLE	Head Office	01/07/2026	69,500	
+71	Machine And Hand Tools	Fixed Assets	Plumboob		14	USABLE	Head Office	01/07/2026	229,600	
+72	Machine And Hand Tools	Fixed Assets	Filter Opening Wrench		1	USABLE	Head Office	01/07/2026	50,800	
+73	Machine And Hand Tools	Fixed Assets	Centre Punch	Barnd: Yeto poland	1	USABLE	Head Office	01/07/2026	162,800	
+74	Machine And Hand Tools	Fixed Assets	Hollow Punch		1set	USABLE	Head Office	01/07/2026	29,000	
+75	Machine And Hand Tools	Fixed Assets	Compass	Size:12''	1	USABLE	Head Office	01/07/2026	89,500	
+76	Machine And Hand Tools	Fixed Assets	Cold Chissel	Size: 10''	5	USABLE	Head Office	01/07/2026	221,900	
+77	Machine And Hand Tools	Fixed Assets	Scraper		7	USABLE	Head Office	01/07/2026	136,700	
+78	Machine And Hand Tools	Fixed Assets	Round Cutter	Size:10''	1	USABLE	Head Office	01/07/2026	152,600	
+79	Machine And Hand Tools	Fixed Assets	Hacksaw Fram		1	USABLE	Head Office	01/07/2026	121,800	
+80	Machine And Hand Tools	Fixed Assets	Cylinder Carring Tolly		2	USABLE	Head Office	01/07/2026	106,700	
+81	Machine And Hand Tools	Fixed Assets	Material Carring Tolly		7	USABLE	Head Office	01/07/2026	156,000	
+82	Machine And Hand Tools	Fixed Assets	Mechanical Tool Bag		1	USABLE	Head Office	01/07/2026	220,900	
+83	Machine And Hand Tools	Fixed Assets	Jack stand		2	USABLE	Head Office	01/07/2026	225,900	
+84	Machine And Hand Tools	Fixed Assets	Cylinder  stand		1	USABLE	Head Office	01/07/2026	53,500	
+85	Machine And Hand Tools	Fixed Assets	Concrete Drill Bit	Dia: 12 mm, Length: 340 mm	1	USABLE	Head Office	01/07/2026	62,300	
+86	Machine And Hand Tools	Fixed Assets	Concrete Drill Bit	Dia: 12 mm, Length: 160 mm	1	USABLE	Head Office	01/07/2026	236,200	
+87	Machine And Hand Tools	Fixed Assets	Concrete Drill Bit	Dia: 10 mm, Length: 310 mm	1	USABLE	Head Office	01/07/2026	243,800	
+88	Machine And Hand Tools	Fixed Assets	Concrete Drill Bit	Dia: 20 mm, Length: 345 mm	1	USABLE	Head Office	01/07/2026	171,900	
+89	Machine And Hand Tools	Fixed Assets	Concrete Drill Bit	Dia: 14 mm, Length: 545 mm	1	USABLE	Head Office	01/07/2026	193,300	
+90	Machine And Hand Tools	Fixed Assets	Magnetic core cutter bit	Size: 16 x 50 mm	2	USABLE	Head Office	01/07/2026	212,400	
+91	Machine And Hand Tools	Fixed Assets	Magnetic core cutter bit	Size: 22 x 50 mm	1	USABLE	Head Office	01/07/2026	14,200	
+92	Machine And Hand Tools	Fixed Assets	Magnetic core cutter bit	Size: 18 x 50 mm	1	USABLE	Head Office	01/07/2026	175,300	
+93	Machine And Hand Tools	Fixed Assets	Magnetic core cutter bit	Size: 14 x 50 mm	2	USABLE	Head Office	01/07/2026	29,200	
+94	Machine And Hand Tools	Fixed Assets	Magnetic core cutter bit	Size: 20x 50mm	1	USABLE	Head Office	01/07/2026	189,700	
+95	Machine And Hand Tools	Fixed Assets	Drill Bit Chalk	1,5 to 13 mm	1	USABLE	Head Office	01/07/2026	130,900	
+96	Machine And Hand Tools	Fixed Assets	Diamond bit		1	USABLE	Head Office	01/07/2026	244,400	
+97	Machine And Hand Tools	Fixed Assets	Hand Show		1	USABLE	Head Office	01/07/2026	29,900	
+98	Machine And Hand Tools	Fixed Assets	Jack Stand		2	USABLE	Head Office	01/07/2026	98,100	
+99	Machine And Hand Tools	Fixed Assets	U Head Jack		100	USABLE	Head Office	01/07/2026	60,500	
+100	Machine And Hand Tools	Fixed Assets	Jack Base		100	USABLE	Head Office	01/07/2026	15,500	
+101	Machine And Hand Tools	Fixed Assets	Cutting Nozzle	Size: 1/32"	1	USABLE	Head Office	01/07/2026	198,800	
+102	Machine And Hand Tools	Fixed Assets	Oxygen Key		2	USABLE	Head Office	01/07/2026	208,100	
+103	Machine And Hand Tools	Fixed Assets	Spill Tray	Size:Various	7	USABLE	Head Office	01/07/2026	64,000	
+104	Machine And Hand Tools	Fixed Assets	Shovel		20	USABLE	Head Office	01/07/2026	79,900	
+105	Machine And Hand Tools	Fixed Assets	Spade kodal		26	USABLE	Head Office	01/07/2026	248,600	
+106	Machine And Hand Tools	Fixed Assets	Geti		6	USABLE	Head Office	01/07/2026	13,600	
+107	Machine And Hand Tools	Fixed Assets	Crowbar		2	USABLE	Head Office	01/07/2026	136,500	
+108	Machine And Hand Tools	Fixed Assets	Chopper		2	USABLE	Head Office	01/07/2026	122,200	
+109	Machine And Hand Tools	Fixed Assets	Tent	Size:30'x40'	2	USABLE	Head Office	01/07/2026	228,100	
+110	Machine And Hand Tools	Fixed Assets	Tent	Size:24'x18'	20	USABLE	Head Office	01/07/2026	148,000	
+111	Machine And Hand Tools	Fixed Assets	Tent	Size:12'x15'	6	USABLE	Head Office	01/07/2026	105,000	
+112	Machine And Hand Tools	Fixed Assets	Finishing Trowel		4	USABLE	Head Office	01/07/2026	57,100	
+113	Machine And Hand Tools	Fixed Assets	Kanni		14	USABLE	Head Office	01/07/2026	78,200	
+114	Machine And Hand Tools	Fixed Assets	Wooden plastering trowel		11	USABLE	Head Office	01/07/2026	113,500	
+115	Machine And Hand Tools	Fixed Assets	Kanmri		3	USABLE	Head Office	01/07/2026	185,200	
+116	Machine And Hand Tools	Fixed Assets	River Binding Handel		3	USABLE	Head Office	01/07/2026	42,100	
+117	Machine And Hand Tools	Fixed Assets	Hollow Box	Size:Various	7	USABLE	Head Office	01/07/2026	32,100	
+118	Machine And Hand Tools	Fixed Assets	Concrete Test Cylinder		2Set	USABLE	Head Office	01/07/2026	157,300	
+119	Machine And Hand Tools	Fixed Assets	Slump Kanni		1Set	USABLE	Head Office	01/07/2026	209,700	
+120	Machine And Hand Tools	Fixed Assets	Slurry Test Kit		1Set	USABLE	Head Office	01/07/2026	165,500	
+121	Machine And Hand Tools	Fixed Assets	Insulation Grooving		1	USABLE	Head Office	01/07/2026	245,000	
+122	Machine And Hand Tools	Fixed Assets	MDD Test		1 Set	USABLE	Head Office	01/07/2026	159,000	LAB ROOM
+123	Machine And Hand Tools	Fixed Assets	FDD Test		1 Set	USABLE	Head Office	01/07/2026	211,900	LAB ROOM
+124	Machine And Hand Tools	Fixed Assets	Sand Cone With Stander Sand		1 Set	USABLE	Head Office	01/07/2026	6,900	LAB ROOM
+125	Machine And Hand Tools	Fixed Assets	SAND Sieve test kit		1 Set	USABLE	Head Office	01/07/2026	126,900	LAB ROOM
+126	Machine And Hand Tools	Fixed Assets	MS Shutter	Size:Various	165	USABLE	Head Office	01/07/2026	221,300	
+127	Machine And Hand Tools	Fixed Assets	Nitting Pipe	Length:328ft	1	USABLE	Head Office	01/07/2026	9,400	
+128	Welding Materials / Consumable	Inventory	Heating Torch		1set	USABLE	Head Office	01/07/2026	600	
+129	Welding Materials / Consumable	Inventory	Gas Cutting Torch		1set	USABLE	Head Office	01/07/2026	10,200	
+130	Welding Materials / Consumable	Inventory	Earthing Rod		7	USABLE	Head Office	01/07/2026	16,600	
+131	Welding Materials / Consumable	Inventory	Protable Oven	Weight:5kg	1	USABLE	Head Office	01/07/2026	26,850	
+132	Welding Materials / Consumable	Inventory	Welding Cable	RM:70	2 Set	USABLE	Head Office	01/07/2026	11,950	
+133	Welding Materials / Consumable	Inventory	Power Cable(grinding cable)		14 Set	USABLE	Head Office	01/07/2026	10,000	
+134	Welding Materials / Consumable	Inventory	Gas Cutting		1set	USABLE	Head Office	01/07/2026	6,850	
+135	Welding Materials / Consumable	Inventory	Argun Open Torch		2 set	USABLE	Head Office	01/07/2026	26,750	
+136	Welding Materials / Consumable	Inventory	Welding Short Cable		5	USABLE	Head Office	01/07/2026	5,900	
+137	Welding Materials / Consumable	Inventory	Cutting Disk	Size: 4:, 1mm	26	USABLE	Head Office	01/07/2026	29,400	
+138	Welding Materials / Consumable	Inventory	Filler Metal	E-7018-H4R	2 Kg	USABLE	Head Office	01/07/2026	10,400	
+139	Welding Materials / Consumable	Inventory	Electrode	Brand: Jetbond, 2.5 mm	6 Packet	USABLE	Head Office	01/07/2026	6,800	
+140	Welding Materials / Consumable	Inventory	Welding Generator Copper Nut Bolt	Size: 1/2"	4	USABLE	Head Office	01/07/2026	9,950	
+141	Hydrostatic Test & De-watering Fittings	Inventory	Water Hose Pipe	Size:1''  Length: 100ft	1	USABLE	Head Office	01/07/2026	17,650	
+142	Hydrostatic Test & De-watering Fittings	Inventory	Water Hose Pipe	Size:1''   Length: 100ft	1	USABLE	Head Office	01/07/2026	27,500	
+143	Hydrostatic Test & De-watering Fittings	Inventory	Hydraulic Hose Pipe	Size:1/2''     Length: 20ft	1	USABLE	Head Office	01/07/2026	3,250	
+144	Hydrostatic Test & De-watering Fittings	Inventory	Hydraulic Hose Pipe	Size:1/2''     Length: 20ft	1	USABLE	Head Office	01/07/2026	13,300	
+145	Hydrostatic Test & De-watering Fittings	Inventory	Hydraulic Hose Pipe	Size:1/2''   Length:  20ft	1	USABLE	Head Office	01/07/2026	6,550	
+146	Hydrostatic Test & De-watering Fittings	Inventory	Cotton Fire Hose Pipe	Length: 2ooft	2	USABLE	Head Office	01/07/2026	19,050	
+147	Hydrostatic Test & De-watering Fittings	Inventory	Plastic Hose Pipe	Length:90ft	1	USABLE	Head Office	01/07/2026	17,200	
+148	Hydrostatic Test & De-watering Fittings	Inventory	D-Shackle	Weight:4.75ton	4	USABLE	Head Office	01/07/2026	18,950	
+149	Hydrostatic Test & De-watering Fittings	Inventory	A Leader		1	USABLE	Head Office	01/07/2026	17,200	
+150	Hydrostatic Test & De-watering Fittings	Inventory	Lifting Belt	3 Ton Length: 3 Meter	2	USABLE	Head Office	01/07/2026	18,450	
+151	Hydrostatic Test & De-watering Fittings	Inventory	Lifting Belt	10 Ton Length: 6 Meter	2	USABLE	Head Office	01/07/2026	14,100	
+152	Electrical Consumables	Inventory	Circuit Breaker	20 Amp	1	USABLE	Head Office	01/07/2026	21,300	
+153	Electrical Consumables	Inventory	Circuit Breaker	21 Amp	2	DAMAGE	Head Office	01/07/2026	16,750	
+154	Electrical Consumables	Inventory	Torch Light		1	USABLE	Head Office	01/07/2026	2,900	
+155	Electrical Consumables	Inventory	BD Board	Size: 10 x 15 x 25"	1	USABLE	Head Office	01/07/2026	5,600	
+156	Electrical Consumables	Inventory	Industrial Tee	16mpr 3 head	4	USABLE	Head Office	01/07/2026	25,850	
+157	Electrical Consumables	Inventory	Industrial Socket	Male-Female	4	USABLE	Head Office	01/07/2026	6,800	
+158	Cylinder & Regulators	Fixed Assets	Oxygen  Cylinder	Weight: 9.8kg	1	USABLE	Head Office	01/07/2026	45,400	
+159	Safety Materials And PPE	Inventory	Resperatory Musk	With New Filter	1 Set	USABLE	Head Office	01/07/2026	8,000	
+160	Safety Materials And PPE	Inventory	N95 Musk	Brand: 3M, With Filter	14	USABLE	Head Office	01/07/2026	27,350	
+161	Safety Materials And PPE	Inventory	N95 Musk	Brand: 3M, Without  Filter	12	USABLE	Head Office	01/07/2026	29,900	
+162	Safety Materials And PPE	Inventory	Cotton Gloves		84 Pair	USABLE	Head Office	01/07/2026	9,650	
+163	Safety Materials And PPE	Inventory	Scaffolding Gloves	Brand:	2	USABLE	Head Office	01/07/2026	23,950	
+164	Safety Materials And PPE	Inventory	Chemical Apron		12	USABLE	Head Office	01/07/2026	9,900	
+165	Safety Materials And PPE	Inventory	Cut Resistance Gloves		1	USABLE	Head Office	01/07/2026	3,900	
+166	Safety Materials And PPE	Inventory	Argon Gloves		2	USABLE	Head Office	01/07/2026	6,450	
+167	Safety Materials And PPE	Inventory	Fitter Gloves		8	USABLE	Head Office	01/07/2026	16,750	
+168	Safety Materials And PPE	Inventory	Rain Coat		67	USABLE	Head Office	01/07/2026	21,900	
+169	Safety Materials And PPE	Inventory	Safety Shoes		4 Pair	NEW	Head Office	01/07/2026	12,950	
+170	Safety Materials And PPE	Inventory	Fire Extinguisher	Weight:5kg	8	USABLE	Head Office	01/07/2026	4,650	
+171	Safety Materials And PPE	Inventory	Fire Extinguisher	Weight: 1kg	1	USABLE	Head Office	01/07/2026	10,500	
+172	Safety Materials And PPE	Inventory	Firstaid Box		1	USABLE	Head Office	01/07/2026	13,950	
+173	Safety Materials And PPE	Inventory	Ice box		2	USABLE	Head Office	01/07/2026	24,250	
+174	Safety Materials And PPE	Inventory	Safety sign stand		4	USABLE	Head Office	01/07/2026	26,550	
+175	Safety Materials And PPE	Inventory	Umbrella	Barnd:BMW	8	USABLE	Head Office	01/07/2026	18,550	
+176	Safety Materials And PPE	Inventory	Umbrella	Barnd:Local	17	USABLE	Head Office	01/07/2026	5,050	
+177	Scaffolding Materials	Inventory	Scaffolding Ratchet	Size:17-19	1	USABLE	Head Office	01/07/2026	22,700	
+178	Scaffolding Materials	Inventory	Scaffolding Ratchet	Size:21-24	6	USABLE	Head Office	01/07/2026	17,500	
+179	Scaffolding Materials	Inventory	Scaffolding Tool Bag		1	USABLE	Head Office	01/07/2026	11,150	
+180	Scaffolding Materials	Inventory	Scaffolding Waist Tool Bag		4	USABLE	Head Office	01/07/2026	21,350	
+181	Scaffolding Materials	Inventory	Scaffolding Tube	Size:6.5ft	150	USABLE	Head Office	01/07/2026	21,300	
+182	Scaffolding Materials	Inventory	Scaffolding Tube	Size:10ft	400	USABLE	Head Office	01/07/2026	29,000	
+183	Scaffolding Materials	Inventory	Scaffolding Tube	Size:Various	53	USABLE	Head Office	01/07/2026	4,300	
+184	Mesuring Iteam	Fixed Assets	Steel Scale	Size:1m	1	USABLE	Head Office	01/07/2026	91,600	
+185	Mesuring Iteam	Fixed Assets	Mesurment Tape	Length: 5 Meter	3	USABLE	Head Office	01/07/2026	58,700	
+186	Mesuring Iteam	Fixed Assets	Mesurment Tape	Size: 30 Meter	1	USABLE	Head Office	01/07/2026	170,000	
+152		Inventory					Head Office	01/07/2026	11,800	
+153		Inventory					Head Office	01/07/2026	29,800	
+154	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	23,900	
+155	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	14,550	
+156	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,200	
+157	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	28,500	
+158	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	22,100	
+159	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	23,350	
+160	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	23,150	
+161	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	19,950	
+162	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	14,450	
+163	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	10,000	
+164	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	18,650	
+165	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	18,250	
+166	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	14,550	
+167	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,900	
+168	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	9,550	
+169	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	13,650	
+170	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	8,850	
+171	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	7,650	
+172	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	16,750	
+173	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	6,300	
+174	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	7,300	
+175	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	26,250	
+176	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	6,250	
+177	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	27,700	
+178	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	23,000	
+179	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	19,750	
+180	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	22,350	
+181	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	28,350	
+182	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	22,950	
+183	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	19,850	
+184	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	15,500	
+185	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	6,750	
+186	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	6,200	
+187	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	24,250	
+188	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	25,600	
+189	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	29,450	
+190	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	8,850	
+191	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	21,900	
+192	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	20,850	
+193	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	650	
+194	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	3,350	
+195	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	29,400	
+196	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	2,800	
+197	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,050	
+198	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	22,900	
+199	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,700	
+200	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	28,650	
+201	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	26,200	
+202	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	7,500	
+203	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	15,350	
+204	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	5,600	
+205	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	17,350	
+206	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	12,650	
+207	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	29,350	
+208	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,500	
+209	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	5,600	
+210	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,150	
+211	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	11,950	
+212	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	14,250	
+213	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	16,800	
+214	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	23,000	
+215	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	10,850	
+216	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	27,200	
+217	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	15,700	
+218	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	900	
+219	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	17,950	
+220	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	1,950	
+221	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	10,600	
+222	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	21,200	
+223	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	7,600	
+224	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	2,850	
+225	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	21,000	
+226	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	13,500	
+227	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	22,800	
+228	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	14,600	
+229	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	3,650	
+230	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	27,850	
+231	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	17,650	
+232	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	28,750	
+233	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	23,700	
+234	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	7,950	
+235	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	28,400	
+236	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	25,550	
+237	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	12,450	
+238	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	2,700	
+239	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	15,100	
+240	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	6,400	
+241	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	24,350	
+242	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	2,100	
+243	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	14,750	
+244	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	19,900	
+245	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	28,850	
+246	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	500	
+247	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	26,600	
+248	Hydrostatic Test & De-watering Fittings	Inventory					Head Office	01/07/2026	29,950	
+249	Pipe Fittings	Inventory					Head Office	01/07/2026	10,500	
+250	Pipe Fittings	Inventory					Head Office	01/07/2026	19,150	
+251	Pipe Fittings	Inventory					Head Office	01/07/2026	15,200	
+252	Pipe Fittings	Inventory					Head Office	01/07/2026	20,200	
+253	Pipe Fittings	Inventory					Head Office	01/07/2026	2,600	
+254	Pipe Fittings	Inventory					Head Office	01/07/2026	27,300	
+255	Pipe Fittings	Inventory					Head Office	01/07/2026	15,950	
+256	Pipe Fittings	Inventory					Head Office	01/07/2026	1,050	
+257	Pipe Fittings	Inventory					Head Office	01/07/2026	13,650	
+258	Pipe Fittings	Inventory					Head Office	01/07/2026	13,400	
+259	Pipe Fittings	Inventory					Head Office	01/07/2026	17,700	
+260	Pipe Fittings	Inventory					Head Office	01/07/2026	26,450	
+261	Pipe Fittings	Inventory					Head Office	01/07/2026	3,950	
+262	Pipe Fittings	Inventory					Head Office	01/07/2026	29,050	
+263	Pipe Fittings	Inventory					Head Office	01/07/2026	27,450	
+264	Pipe Fittings	Inventory					Head Office	01/07/2026	22,750	
+265	Pipe Fittings	Inventory					Head Office	01/07/2026	8,300	
+266	Pipe Fittings	Inventory					Head Office	01/07/2026	8,600	
+267	Pipe Fittings	Inventory					Head Office	01/07/2026	21,750	
+268	Pipe Fittings	Inventory					Head Office	01/07/2026	26,500	
+269	Pipe Fittings	Inventory					Head Office	01/07/2026	3,200	
+270	Pipe Fittings	Inventory					Head Office	01/07/2026	28,000	
+271	Pipe Fittings	Inventory					Head Office	01/07/2026	1,150	
+272	Pipe Fittings	Inventory					Head Office	01/07/2026	19,350	
+273	Pipe Fittings	Inventory					Head Office	01/07/2026	27,850	
+274	Pipe Fittings	Inventory					Head Office	01/07/2026	24,000	
+275	Pipe Fittings	Inventory					Head Office	01/07/2026	16,500	
+276	Pipe Fittings	Inventory					Head Office	01/07/2026	19,700	
+277	Pipe Fittings	Inventory					Head Office	01/07/2026	19,000	
+278	Pipe Fittings	Inventory					Head Office	01/07/2026	9,900	
+279	Pipe Fittings	Inventory					Head Office	01/07/2026	21,350	
+280	Pipe Fittings	Inventory					Head Office	01/07/2026	4,950	
+281	Pipe Fittings	Inventory					Head Office	01/07/2026	27,000	
+282	Pipe Fittings	Inventory					Head Office	01/07/2026	26,300	
+283	Pipe Fittings	Inventory					Head Office	01/07/2026	18,550	
+284	Pipe Fittings	Inventory					Head Office	01/07/2026	23,800	
+285	Pipe Fittings	Inventory					Head Office	01/07/2026	5,350	
+286	Pipe Fittings	Inventory					Head Office	01/07/2026	4,250	
+287	Pipe Fittings	Inventory					Head Office	01/07/2026	19,150	
+288	Pipe Fittings	Inventory					Head Office	01/07/2026	4,100	
+289	Pipe Fittings	Inventory					Head Office	01/07/2026	2,850	
+290	Pipe Fittings	Inventory					Head Office	01/07/2026	12,800	
+291	Pipe Fittings	Inventory					Head Office	01/07/2026	4,050	
+292	Pipe Fittings	Inventory					Head Office	01/07/2026	16,850	
+293	Pipe Fittings	Inventory					Head Office	01/07/2026	8,500	
+294	Pipe Fittings	Inventory					Head Office	01/07/2026	20,350	
+295	Pipe Fittings	Inventory					Head Office	01/07/2026	6,300	
+296	Pipe Fittings	Inventory					Head Office	01/07/2026	18,900	
+297	Pipe Fittings	Inventory					Head Office	01/07/2026	29,300	
+298	Pipe Fittings	Inventory					Head Office	01/07/2026	12,300	
+299	Pipe Fittings	Inventory					Head Office	01/07/2026	25,300	
+300	Pipe Fittings	Inventory					Head Office	01/07/2026	28,100	
+301	Pipe Fittings	Inventory					Head Office	01/07/2026	25,650	
+302	Pipe Fittings	Inventory					Head Office	01/07/2026	7,200	
+303	Pipe Fittings	Inventory					Head Office	01/07/2026	11,250	
+304	Pipe Fittings	Inventory					Head Office	01/07/2026	2,050	
+305	Pipe Fittings	Inventory					Head Office	01/07/2026	22,200	
+306	Pipe Fittings	Inventory					Head Office	01/07/2026	12,450	
+307	Pipe Fittings	Inventory					Head Office	01/07/2026	30,000	
+308	Pipe Fittings	Inventory					Head Office	01/07/2026	4,200	
+309	Pipe Fittings	Inventory					Head Office	01/07/2026	22,100	
+310	Pipe Fittings	Inventory					Head Office	01/07/2026	27,650	
+311	Pipe Fittings	Inventory					Head Office	01/07/2026	25,550	
+312	Pipe Fittings	Inventory					Head Office	01/07/2026	21,600	
+313	Pipe Fittings	Inventory					Head Office	01/07/2026	250	
+314	Pipe Fittings	Inventory					Head Office	01/07/2026	10,050	
+315	Pipe Fittings	Inventory					Head Office	01/07/2026	15,300	
+316	Pipe Fittings	Inventory					Head Office	01/07/2026	6,250	
+317	Pipe Fittings	Inventory					Head Office	01/07/2026	17,300	
+318	Pipe Fittings	Inventory					Head Office	01/07/2026	26,050	
+319	Pipe Fittings	Inventory					Head Office	01/07/2026	11,350	
+320	Pipe Fittings	Inventory					Head Office	01/07/2026	23,550	
+321	Pipe Fittings	Inventory					Head Office	01/07/2026	21,150	
+322	Pipe Fittings	Inventory					Head Office	01/07/2026	200	
+323	Pipe Fittings	Inventory					Head Office	01/07/2026	7,450	
+324	Pipe Fittings	Inventory					Head Office	01/07/2026	2,500	
+325	Pipe Fittings	Inventory					Head Office	01/07/2026	13,050	
+326	Pipe Fittings	Inventory					Head Office	01/07/2026	3,300	
+327	Pipe Fittings	Inventory					Head Office	01/07/2026	25,600	
+328	Pipe Fittings	Inventory					Head Office	01/07/2026	18,200	
+329	Pipe Fittings	Inventory					Head Office	01/07/2026	16,650	
+330	Pipe Fittings	Inventory					Head Office	01/07/2026	1,150	
+331	Pipe Fittings	Inventory					Head Office	01/07/2026	6,450	
+332	Pipe Fittings	Inventory					Head Office	01/07/2026	26,950	
+333	Pipe Fittings	Inventory					Head Office	01/07/2026	1,500	
+334	Pipe Fittings	Inventory					Head Office	01/07/2026	29,850	
+335	Pipe Fittings	Inventory					Head Office	01/07/2026	17,800	
+336	Pipe Fittings	Inventory					Head Office	01/07/2026	9,500	
+337	Pipe Fittings	Inventory					Head Office	01/07/2026	17,800	
+338	Pipe Fittings	Inventory					Head Office	01/07/2026	8,550	
+339	Pipe Fittings	Inventory					Head Office	01/07/2026	21,900	
+340	Pipe Fittings	Inventory					Head Office	01/07/2026	26,000	
+341	Pipe Fittings	Inventory					Head Office	01/07/2026	19,250	
+342	Pipe Fittings	Inventory					Head Office	01/07/2026	9,800	
+343	Pipe Fittings	Inventory					Head Office	01/07/2026	2,600	
+344	Pipe Fittings	Inventory					Head Office	01/07/2026	20,900	
+345	Pipe Fittings	Inventory					Head Office	01/07/2026	10,150	
+346	Pipe Fittings	Inventory					Head Office	01/07/2026	18,500	
+347	Pipe Fittings	Inventory					Head Office	01/07/2026	6,850	
+348	Pipe Fittings	Inventory					Head Office	01/07/2026	5,950	
+349	Pipe Fittings	Inventory					Head Office	01/07/2026	24,900	
+350	Pipe Fittings	Inventory					Head Office	01/07/2026	6,000	
+351	Pipe Fittings	Inventory					Head Office	01/07/2026	4,500	
+352	Pipe Fittings	Inventory					Head Office	01/07/2026	4,000	
+353	Pipe Fittings	Inventory					Head Office	01/07/2026	750	
+354	Pipe Fittings	Inventory					Head Office	01/07/2026	13,150	
+355	Pipe Fittings	Inventory					Head Office	01/07/2026	2,000	
+356	Pipe Fittings	Inventory					Head Office	01/07/2026	24,400	
+357	Pipe Fittings	Inventory					Head Office	01/07/2026	23,350	
+358	Pipe Fittings	Inventory					Head Office	01/07/2026	28,100	
+359	Pipe Fittings	Inventory					Head Office	01/07/2026	3,050	
+360	Pipe Fittings	Inventory					Head Office	01/07/2026	10,000	
+361	Pipe Fittings	Inventory					Head Office	01/07/2026	12,650	
+362	Pipe Fittings	Inventory					Head Office	01/07/2026	1,550	
+363	Pipe Fittings	Inventory					Head Office	01/07/2026	5,950	
+364	Pipe Fittings	Inventory					Head Office	01/07/2026	26,250	
+365	Pipe Fittings	Inventory					Head Office	01/07/2026	250	
+366	Pipe Fittings	Inventory					Head Office	01/07/2026	12,200	
+367	Pipe Fittings	Inventory					Head Office	01/07/2026	22,900	
+368	Pipe Fittings	Inventory					Head Office	01/07/2026	7,900	
+369	Pipe Fittings	Inventory					Head Office	01/07/2026	150	
+370	Pipe Fittings	Inventory					Head Office	01/07/2026	16,100	
+371	Pipe Fittings	Inventory					Head Office	01/07/2026	15,650	
+372	Pipe Fittings	Inventory					Head Office	01/07/2026	13,250	
+373	Pipe Fittings	Inventory					Head Office	01/07/2026	29,750	
+374	Pipe Fittings	Inventory					Head Office	01/07/2026	7,400	
+375	Pipe Fittings	Inventory					Head Office	01/07/2026	8,100	
+376	Pipe Fittings	Inventory					Head Office	01/07/2026	28,350	
+377	Pipe Fittings	Inventory					Head Office	01/07/2026	400	
+378	Pipe Fittings	Inventory					Head Office	01/07/2026	5,950	
+379	Pipe Fittings	Inventory					Head Office	01/07/2026	7,000	
+380	Pipe Fittings	Inventory					Head Office	01/07/2026	1,400	
+381	Pipe Fittings	Inventory					Head Office	01/07/2026	800	
+382	Pipe Fittings	Inventory					Head Office	01/07/2026	11,200	
+383	Pipe Fittings	Inventory					Head Office	01/07/2026	7,400	
+384	Pipe Fittings	Inventory					Head Office	01/07/2026	24,250	
+385	Pipe Fittings	Inventory					Head Office	01/07/2026	12,650	
+386	Pipe Fittings	Inventory					Head Office	01/07/2026	8,300	
+387	Pipe Fittings	Inventory					Head Office	01/07/2026	14,300	
+388	Pipe Fittings	Inventory					Head Office	01/07/2026	20,550	
+389	Pipe Fittings	Inventory					Head Office	01/07/2026	29,050	
+390	Pipe Fittings	Inventory					Head Office	01/07/2026	7,200	
+391	Pipe Fittings	Inventory					Head Office	01/07/2026	8,100	
+392	Pipe Fittings	Inventory					Head Office	01/07/2026	11,450	
+393	Pipe Fittings	Inventory					Head Office	01/07/2026	22,150	
+394	Pipe Fittings	Inventory					Head Office	01/07/2026	3,750	
+395	Pipe Fittings	Inventory					Head Office	01/07/2026	13,650	
+396	Pipe Fittings	Inventory					Head Office	01/07/2026	15,750	
+397	Pipe Fittings	Inventory					Head Office	01/07/2026	29,350	
+398	Pipe Fittings	Inventory					Head Office	01/07/2026	10,450	
+399	Pipe Fittings	Inventory					Head Office	01/07/2026	4,150	
+400	Pipe Fittings	Inventory					Head Office	01/07/2026	3,950	
+401	Pipe Fittings	Inventory					Head Office	01/07/2026	10,500	
+402	Pipe Fittings	Inventory					Head Office	01/07/2026	28,650	
+403	Pipe Fittings	Inventory					Head Office	01/07/2026	11,700	
+404	Pipe Fittings	Inventory					Head Office	01/07/2026	9,850	
+405	Pipe Fittings	Inventory					Head Office	01/07/2026	29,350	
+406	Pipe Fittings	Inventory					Head Office	01/07/2026	7,550	
+407	Pipe Fittings	Inventory					Head Office	01/07/2026	9,700	
+408	Pipe Fittings	Inventory					Head Office	01/07/2026	22,400	
+409	Pipe Fittings	Inventory					Head Office	01/07/2026	10,600	
+410	Pipe Fittings	Inventory					Head Office	01/07/2026	4,500	
+411	Pipe Fittings	Inventory					Head Office	01/07/2026	10,950	
+412	Pipe Fittings	Inventory					Head Office	01/07/2026	21,450	
+413	Pipe Fittings	Inventory					Head Office	01/07/2026	25,200	
+414	Pipe Fittings	Inventory					Head Office	01/07/2026	3,100	
+415	Pipe Fittings	Inventory					Head Office	01/07/2026	4,000	
+416	Pipe Fittings	Inventory					Head Office	01/07/2026	19,300	
+417	Pipe Fittings	Inventory					Head Office	01/07/2026	25,000	
+418	Pipe Fittings	Inventory					Head Office	01/07/2026	8,000	
+419	Pipe Fittings	Inventory					Head Office	01/07/2026	29,450	
+420	Pipe Fittings	Inventory					Head Office	01/07/2026	5,150	
+421	Pipe Fittings	Inventory					Head Office	01/07/2026	20,800	For Light Stand
+422	Pipe Fittings	Inventory					Head Office	01/07/2026	28,450	
+423	Pipe Fittings	Inventory					Head Office	01/07/2026	900	
+424	Pipe Fittings	Inventory					Head Office	01/07/2026	12,700	
+425	Pipe Fittings	Inventory					Head Office	01/07/2026	4,150	
+426		Inventory					Head Office	01/07/2026	9,250	
+427	Pipe Fittings	Inventory					Head Office	01/07/2026	5,650	
+428	Pipe Fittings	Inventory					Head Office	01/07/2026	24,100	
+429	Pipe Fittings	Inventory					Head Office	01/07/2026	4,950	
+430	Pipe Fittings	Inventory					Head Office	01/07/2026	18,550	
+431	Pipe Fittings	Inventory					Head Office	01/07/2026	4,200	
+432	Pipe Fittings	Inventory					Head Office	01/07/2026	10,300	
+433	Pipe Fittings	Inventory					Head Office	01/07/2026	28,550	
+434		Inventory					Head Office	01/07/2026	27,350	
+435	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	21,250	
+436	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	27,200	
+437	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	8,400	
+438	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	28,500	
+439	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	13,950	
+440	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	3,200	
+441	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	5,250	
+442	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	13,150	
+443	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	17,250	
+444	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	28,650	
+445	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	9,300	
+446	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	6,650	
+447	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	17,050	
+448	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	24,600	
+449	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	29,000	
+450	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	4,950	
+451	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	4,450	
+452	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	4,550	
+453	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	15,850	
+454	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	550	
+455	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	9,900	
+456	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	5,650	
+457	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	7,300	
+458	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	4,050	
+459	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	2,200	
+460	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	12,000	
+461	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	2,400	
+462	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	12,300	
+463	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	1,200	
+464	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	19,500	
+465	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	19,050	
+466	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	22,700	
+467	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	10,050	
+468	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	11,300	
+469	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	21,400	
+470	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	25,850	
+471	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	25,150	
+472	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	23,950	
+473	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	17,300	
+474	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	28,800	
+475	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	27,400	
+476	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	2,150	
+477	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	6,050	
+478	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	28,800	
+479	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	20,350	
+480	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	27,150	
+481	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	22,750	
+482	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	20,250	
+483	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	11,450	
+484	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	19,450	
+485	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	26,300	
+486	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	16,150	
+487	Welding Materials / Consumable	Inventory					Head Office	01/07/2026	2,950	
+488		Inventory					Head Office	01/07/2026	21,950	
+489	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	25,050	
+490	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	10,200	
+491	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	18,150	
+492	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	24,550	
+493	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	25,400	
+494	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	700	
+495	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	2,150	
+496	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	5,050	
+497	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	23,900	
+498	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	7,300	
+499	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	21,150	
+500	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	8,000	
+501	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	17,050	
+502	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	23,800	
+503	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	11,450	
+504	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	24,100	
+505	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	11,250	
+506	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	10,750	
+507	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	7,750	
+508	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	7,700	
+509	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	15,850	
+510	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	9,900	
+511	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	19,750	
+512	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	26,850	
+513	Valve And Valve Accessories	Inventory					Head Office	01/07/2026	850	
+514	Mechanical Consumable	Inventory					Head Office	01/07/2026	10,750	
+515	Mechanical Consumable	Inventory					Head Office	01/07/2026	200	
+516	Mechanical Consumable	Inventory					Head Office	01/07/2026	16,800	
+517	Mechanical Consumable	Inventory					Head Office	01/07/2026	24,500	
+518	Mechanical Consumable	Inventory					Head Office	01/07/2026	3,300	
+519	Mechanical Consumable	Inventory					Head Office	01/07/2026	11,100	
+520	Mechanical Consumable	Inventory					Head Office	01/07/2026	29,500	
+521	Mechanical Consumable	Inventory					Head Office	01/07/2026	29,500	
+522	Mechanical Consumable	Inventory					Head Office	01/07/2026	8,050	
+523	Mechanical Consumable	Inventory					Head Office	01/07/2026	19,550	
+524	Mechanical Consumable	Inventory					Head Office	01/07/2026	23,900	
+525	Mechanical Consumable	Inventory					Head Office	01/07/2026	11,900	
+526	Mechanical Consumable	Inventory					Head Office	01/07/2026	16,300	
+527	Mechanical Consumable	Inventory					Head Office	01/07/2026	22,950	
+528	Mechanical Consumable	Inventory					Head Office	01/07/2026	28,050	
+529	Mechanical Consumable	Inventory					Head Office	01/07/2026	18,650	
+530	Mechanical Consumable	Inventory					Head Office	01/07/2026	7,700	
+531	Mechanical Consumable	Inventory					Head Office	01/07/2026	14,750	
+532	Mechanical Consumable	Inventory					Head Office	01/07/2026	27,050	
+533	Mechanical Consumable	Inventory					Head Office	01/07/2026	15,550	
+534	Mechanical Consumable	Inventory					Head Office	01/07/2026	26,550	
+535	Mechanical Consumable	Inventory					Head Office	01/07/2026	27,900	
+536	Mechanical Consumable	Inventory					Head Office	01/07/2026	25,050	
+537	Mechanical Consumable	Inventory					Head Office	01/07/2026	1,450	
+538	Mechanical Consumable	Inventory					Head Office	01/07/2026	14,800	
+539	Mechanical Consumable	Inventory					Head Office	01/07/2026	14,950	
+540	Mechanical Consumable	Inventory					Head Office	01/07/2026	17,850	
+541	Mechanical Consumable	Inventory					Head Office	01/07/2026	20,050	
+542	Mechanical Consumable	Inventory					Head Office	01/07/2026	16,450	
+543	Mechanical Consumable	Inventory					Head Office	01/07/2026	28,250	
+544	Mechanical Consumable	Inventory					Head Office	01/07/2026	26,450	
+545	Mechanical Consumable	Inventory					Head Office	01/07/2026	26,200	
+546	Mechanical Consumable	Inventory					Head Office	01/07/2026	14,400	
+547	Mechanical Consumable	Inventory					Head Office	01/07/2026	14,400	
+548	Mechanical Consumable	Inventory					Head Office	01/07/2026	29,200	
+549	Mechanical Consumable	Inventory					Head Office	01/07/2026	16,550	
+550	Mechanical Consumable	Inventory					Head Office	01/07/2026	23,750	
+551	Mechanical Consumable	Inventory					Head Office	01/07/2026	23,600	
+552	Mechanical Consumable	Inventory					Head Office	01/07/2026	29,900	
+553	Mechanical Consumable	Inventory					Head Office	01/07/2026	9,550	
+554	Mechanical Consumable	Inventory					Head Office	01/07/2026	14,300	
+555	Mechanical Consumable	Inventory					Head Office	01/07/2026	10,900	
+556	Mechanical Consumable	Inventory					Head Office	01/07/2026	22,150	
+557	Mechanical Consumable	Inventory					Head Office	01/07/2026	25,850	Without Nut
+558	Mechanical Consumable	Inventory					Head Office	01/07/2026	18,500	
+559	Mechanical Consumable	Inventory					Head Office	01/07/2026	19,050	
+560	Mechanical Consumable	Inventory					Head Office	01/07/2026	24,200	
+561	Mechanical Consumable	Inventory					Head Office	01/07/2026	15,600	
+562	Mechanical Consumable	Inventory					Head Office	01/07/2026	18,500	
+563	Mechanical Consumable	Inventory					Head Office	01/07/2026	2,050	
+564	Mechanical Consumable	Inventory					Head Office	01/07/2026	20,000	
+565	Mechanical Consumable	Inventory					Head Office	01/07/2026	4,950	
+566	Mechanical Consumable	Inventory					Head Office	01/07/2026	24,650	
+567	Mechanical Consumable	Inventory					Head Office	01/07/2026	23,900	
+568	Mechanical Consumable	Inventory					Head Office	01/07/2026	29,600	
+569	Mechanical Consumable	Inventory					Head Office	01/07/2026	22,500	
+570	Mechanical Consumable	Inventory					Head Office	01/07/2026	4,400	
+571	Mechanical Consumable	Inventory					Head Office	01/07/2026	1,850	
+572	Mechanical Consumable	Inventory					Head Office	01/07/2026	23,550	
+573	Mechanical Consumable	Inventory					Head Office	01/07/2026	11,050	
+574	Mechanical Consumable	Inventory					Head Office	01/07/2026	8,850	
+575	Mechanical Consumable	Inventory					Head Office	01/07/2026	10,000	
+576	Mechanical Consumable	Inventory					Head Office	01/07/2026	12,800	
+577	Mechanical Consumable	Inventory					Head Office	01/07/2026	11,750	
+578	Mechanical Consumable	Inventory					Head Office	01/07/2026	20,550	
+579	Mechanical Consumable	Inventory					Head Office	01/07/2026	9,900	
+580	Mechanical Consumable	Inventory					Head Office	01/07/2026	5,950	
+581	Mechanical Consumable	Inventory					Head Office	01/07/2026	19,800	
+582	Mechanical Consumable	Inventory					Head Office	01/07/2026	21,400	
+583	Mechanical Consumable	Inventory					Head Office	01/07/2026	28,950	
+584	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	35,800	
+585	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	242,200	
+586	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	165,600	
+587	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	15,900	
+588	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	168,000	
+589	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	176,300	
+590	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	179,200	
+591	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	229,300	
+592	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	186,300	
+593	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	46,300	
+594	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	137,100	
+595	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	8,300	
+596	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	36,100	
+597	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	31,200	
+598	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	167,300	
+599	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	197,200	
+600	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	179,700	
+601	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	99,000	
+602	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	34,800	
+603	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	209,200	
+604	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	87,600	
+605	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	175,000	
+606	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	140,400	
+607	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	183,000	
+608	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	199,900	
+609	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	133,500	
+610	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	66,700	
+611	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	61,900	
+612	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	44,200	
+613	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	69,300	
+614	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	99,800	
+615	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	68,400	
+616	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	171,900	
+617	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	171,300	
+618	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	82,300	
+619	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	17,500	
+620	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	201,100	
+621	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	89,400	
+622	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	215,300	
+623	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	181,500	
+624	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	55,600	
+625	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	22,000	
+626	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	208,300	
+627	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	138,200	
+628	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	15,800	
+629	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	127,000	
+630	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	244,300	
+631	Lifting Rig Equipment	Fixed Assets					Head Office	01/07/2026	50,600	
+632	Electrical Consumables	Inventory					Head Office	01/07/2026	15,100	
+633	Electrical Consumables	Inventory					Head Office	01/07/2026	11,700	
+634	Electrical Consumables	Inventory					Head Office	01/07/2026	9,150	
+635	Electrical Consumables	Inventory					Head Office	01/07/2026	6,750	
+636	Electrical Consumables	Inventory					Head Office	01/07/2026	2,600	
+637	Electrical Consumables	Inventory					Head Office	01/07/2026	17,650	
+638	Electrical Consumables	Inventory					Head Office	01/07/2026	15,000	
+639	Electrical Consumables	Inventory					Head Office	01/07/2026	1,550	
+640	Electrical Consumables	Inventory					Head Office	01/07/2026	23,850	
+641	Electrical Consumables	Inventory					Head Office	01/07/2026	8,800	
+642	Electrical Consumables	Inventory					Head Office	01/07/2026	15,300	
+643	Electrical Consumables	Inventory					Head Office	01/07/2026	24,350	
+644	Electrical Consumables	Inventory					Head Office	01/07/2026	15,550	
+645	Electrical Consumables	Inventory					Head Office	01/07/2026	9,000	
+646	Electrical Consumables	Inventory					Head Office	01/07/2026	5,350	
+647	Electrical Consumables	Inventory					Head Office	01/07/2026	18,100	
+648	Electrical Consumables	Inventory					Head Office	01/07/2026	7,000	
+649	Electrical Consumables	Inventory					Head Office	01/07/2026	23,900	
+650	Electrical Consumables	Inventory					Head Office	01/07/2026	9,600	
+651	Electrical Consumables	Inventory					Head Office	01/07/2026	1,600	
+652	Electrical Consumables	Inventory					Head Office	01/07/2026	9,600	
+653	Electrical Consumables	Inventory					Head Office	01/07/2026	24,200	
+654	Electrical Consumables	Inventory					Head Office	01/07/2026	11,200	
+655	Electrical Consumables	Inventory					Head Office	01/07/2026	450	
+656	Electrical Consumables	Inventory					Head Office	01/07/2026	29,650	
+657	Electrical Consumables	Inventory					Head Office	01/07/2026	21,650	
+658	Electrical Consumables	Inventory					Head Office	01/07/2026	11,250	
+659	Electrical Consumables	Inventory					Head Office	01/07/2026	6,500	
+660	Electrical Consumables	Inventory					Head Office	01/07/2026	4,300	
+661	Electrical Consumables	Inventory					Head Office	01/07/2026	7,650	
+662	Electrical Consumables	Inventory					Head Office	01/07/2026	27,000	
+663	Electrical Consumables	Inventory					Head Office	01/07/2026	23,050	
+664	Electrical Consumables	Inventory					Head Office	01/07/2026	16,200	
+665	Electrical Consumables	Inventory					Head Office	01/07/2026	20,200	
+666	Electrical Consumables	Inventory					Head Office	01/07/2026	2,550	
+667	Electrical Consumables	Inventory					Head Office	01/07/2026	800	
+668	Electrical Consumables	Inventory					Head Office	01/07/2026	7,900	
+669	Electrical Consumables	Inventory					Head Office	01/07/2026	13,550	Middle Point 2 Ft Damage
+670	Electrical Consumables	Inventory					Head Office	01/07/2026	12,650	
+671	Electrical Consumables	Inventory					Head Office	01/07/2026	19,650	
+672	Electrical Consumables	Inventory					Head Office	01/07/2026	22,400	
+673	Electrical Consumables	Inventory					Head Office	01/07/2026	16,500	
+674	Electrical Consumables	Inventory					Head Office	01/07/2026	15,100	
+675	Electrical Consumables	Inventory					Head Office	01/07/2026	26,550	
+676	Electrical Consumables	Inventory					Head Office	01/07/2026	13,850	
+677	Electrical Consumables	Inventory					Head Office	01/07/2026	17,900	
+678	Electrical Consumables	Inventory					Head Office	01/07/2026	15,200	
+679	Electrical Consumables	Inventory					Head Office	01/07/2026	9,200	
+680	Electrical Consumables	Inventory					Head Office	01/07/2026	21,250	
+681	Electrical Consumables	Inventory					Head Office	01/07/2026	19,350	
+682	Electrical Consumables	Inventory					Head Office	01/07/2026	18,250	
+683	Electrical Consumables	Inventory					Head Office	01/07/2026	9,750	
+684	Electrical Consumables	Inventory					Head Office	01/07/2026	27,000	
+685	Electrical Consumables	Inventory					Head Office	01/07/2026	26,250	
+686	Electrical Consumables	Inventory					Head Office	01/07/2026	27,950	
+687	Electrical Consumables	Inventory					Head Office	01/07/2026	22,650	
+688	Electrical Consumables	Inventory					Head Office	01/07/2026	24,400	
+689	Electrical Consumables	Inventory					Head Office	01/07/2026	20,300	
+690	Electrical Consumables	Inventory					Head Office	01/07/2026	7,050	
+691	Electrical Consumables	Inventory					Head Office	01/07/2026	9,200	
+692	Electrical Consumables	Inventory					Head Office	01/07/2026	3,900	
+693	Electrical Consumables	Inventory					Head Office	01/07/2026	14,700	
+694	Electrical Consumables	Inventory					Head Office	01/07/2026	10,850	
+695	Electrical Consumables	Inventory					Head Office	01/07/2026	13,400	
+696	Electrical Consumables	Inventory					Head Office	01/07/2026	9,750	
+697	Electrical Consumables	Inventory					Head Office	01/07/2026	4,250	
+698	Electrical Consumables	Inventory					Head Office	01/07/2026	24,300	
+699	Electrical Consumables	Inventory					Head Office	01/07/2026	13,700	
+700	Electrical Consumables	Inventory					Head Office	01/07/2026	15,450	
+701	Electrical Consumables	Inventory					Head Office	01/07/2026	20,050	
+702	Electrical Consumables	Inventory					Head Office	01/07/2026	17,050	
+703	Electrical Consumables	Inventory					Head Office	01/07/2026	19,200	
+704	Electrical Consumables	Inventory					Head Office	01/07/2026	3,450	
+705	Electrical Consumables	Inventory					Head Office	01/07/2026	15,500	
+706	Electrical Consumables	Inventory					Head Office	01/07/2026	10,300	
+707	Electrical Consumables	Inventory					Head Office	01/07/2026	10,950	
+708	Electrical Consumables	Inventory					Head Office	01/07/2026	6,350	
+709	Electrical Consumables	Inventory					Head Office	01/07/2026	24,600	
+710	Electrical Consumables	Inventory					Head Office	01/07/2026	20,500	
+711	Electrical Consumables	Inventory					Head Office	01/07/2026	20,400	
+712	Electrical Consumables	Inventory					Head Office	01/07/2026	5,800	
+713	Electrical Consumables	Inventory					Head Office	01/07/2026	21,350	
+714	Electrical Consumables	Inventory					Head Office	01/07/2026	1,400	
+715	Electrical Consumables	Inventory					Head Office	01/07/2026	7,500	
+716	Electrical Consumables	Inventory					Head Office	01/07/2026	24,950	
+717	Electrical Consumables	Inventory					Head Office	01/07/2026	23,400	
+718	Electrical Consumables	Inventory					Head Office	01/07/2026	28,600	
+719	Electrical Consumables	Inventory					Head Office	01/07/2026	21,000	
+720	Electrical Consumables	Inventory					Head Office	01/07/2026	20,150	
+721	Electrical Consumables	Inventory					Head Office	01/07/2026	12,550	
+722	Electrical Consumables	Inventory					Head Office	01/07/2026	8,100	
+723	Electrical Consumables	Inventory					Head Office	01/07/2026	10,450	
+724	Electrical Consumables	Inventory					Head Office	01/07/2026	15,700	
+725	Electrical Consumables	Inventory					Head Office	01/07/2026	15,750	
+726	Electrical Consumables	Inventory					Head Office	01/07/2026	20,150	
+727	Electrical Consumables	Inventory					Head Office	01/07/2026	22,250	
+728	Electrical Consumables	Inventory					Head Office	01/07/2026	23,250	
+729	Electrical Consumables	Inventory					Head Office	01/07/2026	16,700	
+730	Electrical Consumables	Inventory					Head Office	01/07/2026	12,000	
+731	Electrical Consumables	Inventory					Head Office	01/07/2026	600	
+732	Electrical Consumables	Inventory					Head Office	01/07/2026	3,050	
+733	Electrical Consumables	Inventory					Head Office	01/07/2026	23,800	
+734	Electrical Consumables	Inventory					Head Office	01/07/2026	12,050	
+735	Electrical Consumables	Inventory					Head Office	01/07/2026	20,450	
+736	Electrical Consumables	Inventory					Head Office	01/07/2026	14,200	
+737	Electrical Consumables	Inventory					Head Office	01/07/2026	18,050	
+738	Electrical Consumables	Inventory					Head Office	01/07/2026	2,000	
+739	Electrical Consumables	Inventory					Head Office	01/07/2026	9,000	
+740	Electrical Consumables	Inventory					Head Office	01/07/2026	2,350	
+741	Electrical Consumables	Inventory					Head Office	01/07/2026	20,700	
+742	Electrical Consumables	Inventory					Head Office	01/07/2026	1,900	
+743	Electrical Consumables	Inventory					Head Office	01/07/2026	14,550	
+744	Electrical Consumables	Inventory					Head Office	01/07/2026	23,150	
+745	Electrical Consumables	Inventory					Head Office	01/07/2026	2,600	
+746	Electrical Consumables	Inventory					Head Office	01/07/2026	10,600	
+747	Electrical Consumables	Inventory					Head Office	01/07/2026	27,900	
+748	Measuring Tools	Fixed Assets					Head Office	01/07/2026	7,700	
+749	Measuring Tools	Fixed Assets					Head Office	01/07/2026	135,900	
+750	Safety Materials And PPE	Inventory					Head Office	01/07/2026	1,350	
+751	Safety Materials And PPE	Inventory					Head Office	01/07/2026	5,650	
+752	Safety Materials And PPE	Inventory					Head Office	01/07/2026	19,100	
+753	Safety Materials And PPE	Inventory					Head Office	01/07/2026	27,150	
+754	Safety Materials And PPE	Inventory					Head Office	01/07/2026	24,400	
+755	Safety Materials And PPE	Inventory					Head Office	01/07/2026	6,950	
+756	Safety Materials And PPE	Inventory					Head Office	01/07/2026	24,400	
+757	Safety Materials And PPE	Inventory					Head Office	01/07/2026	23,000	
+758	Safety Materials And PPE	Inventory					Head Office	01/07/2026	24,100	
+759	Safety Materials And PPE	Inventory					Head Office	01/07/2026	17,000	
+760	Safety Materials And PPE	Inventory					Head Office	01/07/2026	4,500	
+761	Safety Materials And PPE	Inventory					Head Office	01/07/2026	5,300	
+762	Safety Materials And PPE	Inventory					Head Office	01/07/2026	13,450	
+763	Safety Materials And PPE	Inventory					Head Office	01/07/2026	11,600	
+764	Safety Materials And PPE	Inventory					Head Office	01/07/2026	8,900	
+765	Safety Materials And PPE	Inventory					Head Office	01/07/2026	1,600	
+766	Safety Materials And PPE	Inventory					Head Office	01/07/2026	21,600	
+767	Safety Materials And PPE	Inventory					Head Office	01/07/2026	13,500	
+768	Safety Materials And PPE	Inventory					Head Office	01/07/2026	2,750	
+769	Safety Materials And PPE	Inventory					Head Office	01/07/2026	5,350	
+770	Safety Materials And PPE	Inventory					Head Office	01/07/2026	17,400	
+771	Cylinder & Regulators	Inventory					Head Office	01/07/2026	29,150	
+772	Cylinder & Regulators	Inventory					Head Office	01/07/2026	19,100	
+773	Cylinder & Regulators	Inventory					Head Office	01/07/2026	25,150	
+774	Cylinder & Regulators	Inventory					Head Office	01/07/2026	6,400	
+775	Cylinder & Regulators	Inventory					Head Office	01/07/2026	19,200	
+776	Cylinder & Regulators	Inventory					Head Office	01/07/2026	10,250	
+777	Cylinder & Regulators	Inventory					Head Office	01/07/2026	25,800	
+778	Cylinder & Regulators	Inventory					Head Office	01/07/2026	12,950	
+779	Cylinder & Regulators	Inventory					Head Office	01/07/2026	6,650	
+780	Insulation Materials	Inventory					Head Office	01/07/2026	27,700	
+781	Scaffolding Materials	Inventory					Head Office	01/07/2026	800	
+782	Scaffolding Materials	Inventory					Head Office	01/07/2026	27,200	
+783	Scaffolding Materials	Inventory					Head Office	01/07/2026	26,400	
+784	Scaffolding Materials	Inventory					Head Office	01/07/2026	2,150	
+785	Scaffolding Materials	Inventory					Head Office	01/07/2026	1,850	
+786	Scaffolding Materials	Inventory					Head Office	01/07/2026	7,550	
+787	Scaffolding Materials	Inventory					Head Office	01/07/2026	3,650	
+788	Scaffolding Materials	Inventory					Head Office	01/07/2026	1,500	
+789	Scaffolding Materials	Inventory					Head Office	01/07/2026	28,800	
+790	Scaffolding Materials	Inventory					Head Office	01/07/2026	5,850	
+791	Scaffolding Materials	Inventory					Head Office	01/07/2026	14,800	
+792	Scaffolding Materials	Inventory					Head Office	01/07/2026	12,400	
+793	Scaffolding Materials	Inventory					Head Office	01/07/2026	28,200	
+794	Scaffolding Materials	Inventory					Head Office	01/07/2026	8,550	
+795	Scaffolding Materials	Inventory					Head Office	01/07/2026	17,650	
+796	Scaffolding Materials	Inventory					Head Office	01/07/2026	6,950	
+797	Scaffolding Materials	Inventory					Head Office	01/07/2026	24,250	
+798	Scaffolding Materials	Inventory					Head Office	01/07/2026	19,150	
+799	Scaffolding Materials	Inventory					Head Office	01/07/2026	23,950	
+800	Scaffolding Materials	Inventory					Head Office	01/07/2026	7,750	
+801	Scaffolding Materials	Inventory					Head Office	01/07/2026	12,400	
+802	Scaffolding Materials	Inventory					Head Office	01/07/2026	15,150	
+803	Scaffolding Materials	Inventory					Head Office	01/07/2026	6,050	
+804	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	88,500	
+805	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	74,800	
+806	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	112,000	
+807	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	94,800	
+808	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	86,000	
+809	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	238,000	
+810	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	54,600	
+811	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	237,100	
+812	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	62,800	
+813	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	175,500	
+814	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	244,700	
+815	Furniture & Fixture	Fixed Assets					Head Office	01/07/2026	249,300	
+816	Machine Maintenance	Inventory					Head Office	01/07/2026	9,150	
+817	Machine Maintenance	Inventory					Head Office	01/07/2026	12,450	
+818	Machine Maintenance	Inventory					Head Office	01/07/2026	11,500	
+819	Machine Maintenance	Inventory					Head Office	01/07/2026	12,000	
+820	Machine Maintenance	Inventory					Head Office	01/07/2026	1,000	
+821	Machine Maintenance	Inventory					Head Office	01/07/2026	5,900	
+822	Machine Maintenance	Inventory					Head Office	01/07/2026	19,600	
+823	Machine Maintenance	Inventory					Head Office	01/07/2026	1,000	
+824	Machine Maintenance	Inventory					Head Office	01/07/2026	18,100	
+825	Machine Maintenance	Inventory					Head Office	01/07/2026	29,600	
+826	Machine Maintenance	Inventory					Head Office	01/07/2026	24,450	
+827	Machine Maintenance	Inventory					Head Office	01/07/2026	750	
+828	Machine Maintenance	Inventory					Head Office	01/07/2026	2,450	
+829	Machine Maintenance	Inventory					Head Office	01/07/2026	28,450	
+830	Machine Maintenance	Inventory					Head Office	01/07/2026	13,300	
+831	Machine Maintenance	Inventory					Head Office	01/07/2026	6,200	
+832	Machine Maintenance	Inventory					Head Office	01/07/2026	1,300	
+833	Machine Maintenance	Inventory					Head Office	01/07/2026	29,550	
+834	Machine Maintenance	Inventory					Head Office	01/07/2026	3,350	
+835	Machine Maintenance	Inventory					Head Office	01/07/2026	2,950	
+836	Machine Maintenance	Inventory					Head Office	01/07/2026	24,750	
+837	Machine Maintenance	Inventory					Head Office	01/07/2026	12,950	
+838	Machine Maintenance	Inventory					Head Office	01/07/2026	9,450	
+839	Machine Maintenance	Inventory					Head Office	01/07/2026	21,000	
+840	Machine Maintenance	Inventory					Head Office	01/07/2026	7,200	
+841	Machine Maintenance	Inventory					Head Office	01/07/2026	10,300	
+842	Machine Maintenance	Inventory					Head Office	01/07/2026	10,950	
+843	Machine Maintenance	Inventory					Head Office	01/07/2026	11,050	
+844	Machine Maintenance	Inventory					Head Office	01/07/2026	22,900	
+845	Machine Maintenance	Inventory					Head Office	01/07/2026	29,500	
+846	Machine Maintenance	Inventory					Head Office	01/07/2026	13,050	
+847	Machine Maintenance	Inventory					Head Office	01/07/2026	20,250	
+848	Machine Maintenance	Inventory					Head Office	01/07/2026	7,050	
+849	Machine Maintenance	Inventory					Head Office	01/07/2026	9,200	
+850	Machine Maintenance	Inventory					Head Office	01/07/2026	15,100	
+851	Machine Maintenance	Inventory					Head Office	01/07/2026	26,500	
+852	Machine Maintenance	Inventory					Head Office	01/07/2026	12,000	
+853	Machine Maintenance	Inventory					Head Office	01/07/2026	5,450	
+854	CP Related	Fixed Assets					Head Office	01/07/2026	99,900	
+855	CP Related	Fixed Assets					Head Office	01/07/2026	108,700	
+856	CP Related	Fixed Assets					Head Office	01/07/2026	168,700	
+857	Computer Peripheral	Fixed Assets					Head Office	01/07/2026	221,700	
+858	Computer Peripheral	Fixed Assets					Head Office	01/07/2026	246,200	
+859	Computer Peripheral	Fixed Assets					Head Office	01/07/2026	192,100	
+860	Computer Peripheral	Fixed Assets					Head Office	01/07/2026	105,700	
+861	Computer Peripheral	Fixed Assets					Head Office	01/07/2026	122,000	
+862	Computer Peripheral	Fixed Assets					Head Office	01/07/2026	50,400	
+863	Office Equipment	Fixed Assets					Head Office	01/07/2026	30,800	
+864	Office Equipment	Fixed Assets					Head Office	01/07/2026	114,000	
+865	Office Equipment	Fixed Assets					Head Office	01/07/2026	203,100	
+866	Office Equipment	Fixed Assets					Head Office	01/07/2026	15,200	
+867	Office Equipment	Fixed Assets					Head Office	01/07/2026	159,100	
+868	Office Equipment	Fixed Assets					Head Office	01/07/2026	66,400	
+869	Office Equipment	Fixed Assets					Head Office	01/07/2026	139,800	
+870	Oil Carring Equipment	Fixed Assets					Head Office	01/07/2026	220,700	
+871	Others Iteam	Inventory					Head Office	01/07/2026	25,900	
+872	Others Iteam	Inventory					Head Office	01/07/2026	26,900	
+873	Others Iteam	Inventory					Head Office	01/07/2026	20,250	
+874	Others Iteam	Inventory					Head Office	01/07/2026	2,300	
+875	Others Iteam	Inventory					Head Office	01/07/2026	2,800	
+876	Others Iteam	Inventory					Head Office	01/07/2026	18,500	
+877	Others Iteam	Inventory					Head Office	01/07/2026	29,200	
+878	Others Iteam	Inventory					Head Office	01/07/2026	13,800	
+879	Others Iteam	Inventory					Head Office	01/07/2026	28,900	
+880	Others Iteam	Inventory					Head Office	01/07/2026	19,200	
+881	Others Iteam	Inventory					Head Office	01/07/2026	25,600	
+882	Others Iteam	Inventory					Head Office	01/07/2026	26,900	
+883	Others Iteam	Inventory					Head Office	01/07/2026	10,250	
+884	Others Iteam	Inventory					Head Office	01/07/2026	22,200	
+885	Others Iteam	Inventory					Head Office	01/07/2026	5,700	
+886	Others Iteam	Inventory					Head Office	01/07/2026	3,350	
+887	Others Iteam	Inventory					Head Office	01/07/2026	1,050	
+888	Others Iteam	Inventory					Head Office	01/07/2026	26,200	
+889	Others Iteam	Inventory					Head Office	01/07/2026	12,850	
+890	Others Iteam	Inventory					Head Office	01/07/2026	28,600	
+891	Others Iteam	Inventory					Head Office	01/07/2026	19,400	
+892	Others Iteam	Inventory					Head Office	01/07/2026	22,850	
+893	Others Iteam	Inventory					Head Office	01/07/2026	24,100	
+894	Others Iteam	Inventory					Head Office	01/07/2026	24,500	
+895	Others Iteam	Inventory					Head Office	01/07/2026	3,850	
+896	Others Iteam	Inventory					Head Office	01/07/2026	3,050	
+897	Others Iteam	Inventory					Head Office	01/07/2026	10,950	
+898	Others Iteam	Inventory					Head Office	01/07/2026	22,850	
+899	Others Iteam	Inventory					Head Office	01/07/2026	7,450	
+900	Others Iteam	Inventory					Head Office	01/07/2026	14,750	
+901	Others Iteam	Inventory					Head Office	01/07/2026	24,800	
+902	Others Iteam	Inventory					Head Office	01/07/2026	6,200	
+903	Others Iteam	Inventory					Head Office	01/07/2026	6,700	
+904	Others Iteam	Inventory					Head Office	01/07/2026	17,900	
+905	Others Iteam	Inventory					Head Office	01/07/2026	10,550	
+906	Others Iteam	Inventory					Head Office	01/07/2026	4,050	
+907	Others Iteam	Inventory					Head Office	01/07/2026	22,850	
+908	Others Iteam	Inventory					Head Office	01/07/2026	2,700	
+909	Others Iteam	Inventory					Head Office	01/07/2026	4,850	
+910	Others Iteam	Inventory					Head Office	01/07/2026	17,500	
+911	Others Iteam	Inventory					Head Office	01/07/2026	22,650	
+912	Others Iteam	Inventory					Head Office	01/07/2026	11,200	
+913	Others Iteam	Inventory					Head Office	01/07/2026	16,800	
+914	Others Iteam	Inventory					Head Office	01/07/2026	15,200	
+915	Others Iteam	Inventory					Head Office	01/07/2026	27,200	
+916	Others Iteam	Inventory					Head Office	01/07/2026	19,900	
+917	Others Iteam	Inventory					Head Office	01/07/2026	9,200	
+918	Others Iteam	Inventory					Head Office	01/07/2026	13,650	
+919	Others Iteam	Inventory					Head Office	01/07/2026	11,900	
+920	Others Iteam	Inventory					Head Office	01/07/2026	18,050	
+921	Others Iteam	Inventory					Head Office	01/07/2026	1,700	
+922	Others Iteam	Inventory					Head Office	01/07/2026	8,750	
+923		Inventory					Head Office	01/07/2026	18,500	
+924		Inventory					Head Office	01/07/2026	6,000	
+925		Inventory					Head Office	01/07/2026	20,950
