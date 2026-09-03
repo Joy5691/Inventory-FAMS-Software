@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="./technic.png" alt="Technic Construction LTD Logo" width="130" />
+<img src="./technic.png" alt="Technic Construction LTD Logo" width="120" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Inventory%20%26%20FAMS%20Software&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Inventory%20%26%20Fixed%20Asset%20Management%20for%20Technic%20Construction%20LTD&descAlignY=58&descSize=18" width="100%"/>
+# Inventory & FAMS Software
+### Smart Inventory & Fixed Asset Management for Technic Construction LTD
 
-<a href="https://technic-fams.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Real-time+Inventory+Tracking;Fixed+Asset+Management+System+(FAMS);GRN+%7C+PO+%7C+Challan+%7C+MTV+Workflows;Built+for+Construction+Project+Operations" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Real-time+Inventory+Tracking;Fixed+Asset+Management+System+(FAMS);GRN+%7C+PO+%7C+Challan+%7C+MTV+Workflows;Built+for+Construction+Project+Operations" alt="Typing SVG" />
 
 <br/>
 
@@ -23,13 +22,11 @@
   <img src="https://img.shields.io/badge/⭐_Star_this_Repo-black?style=for-the-badge&logo=github" />
 </a>
 
+<br/><br/>
+
+![divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 ## 📌 Overview
 
@@ -38,14 +35,12 @@
 The system is designed around how a **real construction company** operates — multiple active project sites, shared inventory pools, inter-project transfers, and full audit trails for every asset and material movement.
 
 <div align="center">
-<img src="./poster.png" alt="Technic Construction LTD - Inventory & FAMS Poster" width="85%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.25);" />
+<img src="./poster.png" alt="Technic Construction LTD - Inventory & FAMS Poster" width="85%" />
 <br/>
 <sub><i>Official project poster — Inventory & FAMS Software</i></sub>
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
 
 ## ✨ Key Features
 
@@ -86,8 +81,6 @@ The system is designed around how a **real construction company** operates — m
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
-
 ## 🖥️ Live Preview
 
 <div align="center">
@@ -95,11 +88,7 @@ The system is designed around how a **real construction company** operates — m
 **🔗 Hosted App:** [technic-fams.netlify.app](https://technic-fams.netlify.app/)
 **💻 Source Code:** [github.com/Joy5691/Inventory-FAMS-Software](https://github.com/Joy5691/Inventory-FAMS-Software)
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60%">
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
 
 ## 🧩 System Workflow
 
@@ -118,8 +107,6 @@ flowchart LR
     J --> K[Asset Retirement]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -136,8 +123,6 @@ flowchart LR
 | **AI Layer** | Gemini API |
 | **Deployment** | Netlify |
 | **Version Control** | Git & GitHub |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
 
 ## 🚀 Getting Started
 
@@ -163,8 +148,6 @@ npm run dev
 
 The app will now be running locally — check your terminal for the local URL.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
-
 ## 📂 File Structure
 
 ```
@@ -181,7 +164,6 @@ Inventory-FAMS-Software/
 └── README.md
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
 
 ## 🗺️ Roadmap
 
@@ -192,8 +174,6 @@ Inventory-FAMS-Software/
 - [ ] Role-based multi-user permissions
 - [ ] Mobile-responsive field app
 - [ ] Barcode / QR asset tagging
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
 
 ## 👨‍💻 Developer
 
@@ -209,8 +189,6 @@ Developed for **Technic Construction LTD** as a demo Inventory & Fixed Asset Man
 [![GitHub](https://img.shields.io/badge/GitHub-Joy5691-181717?style=for-the-badge&logo=github)](https://github.com/Joy5691)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 <sub>© 2026 Technic Construction LTD — Built with ❤️ by Khalid Mahmud Joy</sub>
