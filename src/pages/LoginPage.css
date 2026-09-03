@@ -1,0 +1,240 @@
+/* Custom Uiverse Login Form Styles adapted for TCCL Branding */
+
+.tccl-login-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.tccl-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 26em;
+  height: 25em;
+  border: 2px solid #0B2745;
+  border-radius: 2em;
+  box-shadow:
+    -10px 0px 0px #0B2745,
+    -10px 5px 5px rgb(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: relative;
+  transition: all 0.25s ease;
+}
+
+.tccl-login-area,
+.tccl-email-area,
+.tccl-password-area,
+.tccl-footer-area {
+  position: relative;
+  z-index: 2;
+}
+
+.tccl-login-area {
+  width: 100%;
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+}
+
+.tccl-login-area p.title {
+  font-size: 1.5em;
+  font-weight: bold;
+  position: absolute;
+  top: 0.5em;
+  z-index: 2;
+}
+
+.tccl-login-area p.behind {
+  top: 65%;
+  font-size: 1em;
+  font-weight: bold;
+  position: absolute;
+  z-index: 1;
+  left: 1.5em;
+  color: #174A7E;
+}
+
+.tccl-email-area {
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+  height: 6em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 0.5em;
+  transition: all 0.25s ease;
+}
+
+.tccl-email-area input {
+  width: 100%;
+  border: 2px solid #174A7E;
+  border-radius: 0.5em;
+  height: 3em;
+  padding-left: 1em;
+  font-size: 1em;
+  font-weight: 500;
+  transition: all 0.5s ease;
+  outline: none;
+  box-shadow: 0px 5px 5px -3px rgb(0, 0, 0, 0.2);
+  color: #0B2745;
+}
+
+.tccl-password-area {
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+  height: 6em;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+  transition: all 0.25s ease;
+}
+
+.tccl-password-area input {
+  width: 100%;
+  border: 2px solid #174A7E;
+  font-size: 1em;
+  border-radius: 0.5em;
+  height: 3em;
+  padding-left: 1em;
+  transition: all 0.25s ease;
+  outline: none;
+  box-shadow: 0px 5px 5px -3px rgb(0, 0, 0, 0.2);
+  color: #0B2745;
+}
+
+
+.tccl-footer-area {
+  margin-top: 0%;
+  padding-top: 0%;
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+  height: 6em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #174A7E;
+  transition: all 0.25s ease;
+}
+
+.tccl-footer-area button {
+  width: 100%;
+  border: 2px solid #174A7E;
+  border-radius: 0.5em;
+  height: 3em;
+  padding-left: 1em;
+  font-size: 1em;
+  font-weight: bold;
+  transition: all 0.25s ease;
+  color: white;
+  background-color: #174A7E;
+  box-shadow: 0px 5px 5px -3px rgb(0, 0, 0, 0.2);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.tccl-background-color {
+  width: 100%;
+  height: 5em;
+  background-color: #174A7E;
+  position: absolute;
+  top: 0em;
+  z-index: 1;
+  transition: all 0.5s ease;
+  box-shadow: inset 5px 0px #0B2745;
+}
+
+.tccl-whitefilter {
+  width: 4.5em;
+  height: 4.5em;
+  top: 2.5px;
+  right: 2.5px;
+  position: absolute;
+  z-index: 2;
+  border-top-right-radius: 1.75em;
+  box-shadow: 45px -45px 0px -1px white;
+}
+
+.tccl-form ::placeholder {
+  color: #174A7E;
+  font-weight: bold;
+}
+
+.tccl-form:hover {
+  width: 28em;
+  height: 26em;
+}
+
+.tccl-email-area:hover ~ .tccl-background-color {
+  height: 6em;
+  transform: translateY(5.5em);
+}
+
+.tccl-email-area:hover,
+.tccl-password-area:hover,
+.tccl-footer-area:hover {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+.tccl-email-area:hover input {
+  color: white;
+  border: 2px solid white;
+  background-color: #174A7E;
+  height: 3.5em;
+}
+
+.tccl-email-area:hover ::placeholder {
+  color: white;
+}
+
+.tccl-password-area:hover ~ .tccl-background-color {
+  height: 6em;
+  transform: translateY(11.5em);
+}
+
+.tccl-footer-area:hover ~ .tccl-background-color {
+  height: 6em;
+  transform: translateY(17.5em);
+}
+
+
+
+.tccl-password-area:hover input {
+  color: white;
+  border: 2px solid white;
+  background-color: #174A7E;
+  height: 3.5em;
+}
+
+.tccl-password-area:hover ::placeholder {
+  color: white;
+}
+
+
+.tccl-footer-area:hover button {
+  border: 2px solid white;
+  background-color: #174A7E;
+  height: 3.5em;
+}
+
+.tccl-footer-area button:active {
+  color: #174A7E;
+  background-color: white;
+  width: 90%;
+}

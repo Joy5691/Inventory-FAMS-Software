@@ -1,0 +1,6 @@
+{
+  "name": "TECHNIC Integrated Inventory, Procurement, Material Tracking & Fixed Asset Management System (FAMS)",
+  "description": "Enterprise ERP, Material Tracking, Procurement Workflow, Warehouse & Fixed Asset Management System for TECHNIC Construction Company Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
