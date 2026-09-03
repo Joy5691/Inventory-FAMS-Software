@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Technic Construction LTD Logo" width="130" />
+<img src="./technic.png" alt="Technic Construction LTD Logo" width="130" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Inventory%20%26%20FAMS%20Software&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Inventory%20%26%20Fixed%20Asset%20Management%20for%20Technic%20Construction%20LTD&descAlignY=58&descSize=18" width="100%"/>
 
@@ -165,4 +165,53 @@ The app will now be running locally — check your terminal for the local URL.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
 
-## 📂 Project Structure
+## 📂 File Structure
+
+```
+Inventory-FAMS-Software/
+├── public/ # Static assets
+├── src/ # Application source code
+│ ├── components/ # UI components
+│ ├── pages/ # App pages / modules (Inventory, FAMS, PO, GRN, MTV...)
+│ └── context/ # App state & context management
+├── index.html
+├── package.json
+├── metadata.json
+├── netlify.toml
+└── README.md
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
+
+## 🗺️ Roadmap
+
+- [x] Core Inventory Module
+- [x] Fixed Asset Management (FAMS)
+- [x] Procurement & GRN Workflow
+- [x] PDF Report Generation
+- [ ] Role-based multi-user permissions
+- [ ] Mobile-responsive field app
+- [ ] Barcode / QR asset tagging
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=3&section=header" width="100%"/>
+
+## 👨‍💻 Developer
+
+<div align="center">
+
+<img src="https://github.com/Joy5691.png" width="110" style="border-radius:50%" />
+
+### **Khalid Mahmud Joy**
+*Computer Science & Engineering | AI • Computer Vision • Full-Stack Development*
+
+Developed for **Technic Construction LTD** as a demo Inventory & Fixed Asset Management System.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Joy5691-181717?style=for-the-badge&logo=github)](https://github.com/Joy5691)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+<div align="center">
+<sub>© 2026 Technic Construction LTD — Built with ❤️ by Khalid Mahmud Joy</sub>
+</div>
